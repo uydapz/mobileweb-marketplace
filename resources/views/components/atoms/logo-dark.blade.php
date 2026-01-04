@@ -1,0 +1,1 @@
+<img src="{{ asset('assets/images/logos/logo-dark.webp') }}" alt="Logo" class="img-fluid" style="max-height: 50px;">
